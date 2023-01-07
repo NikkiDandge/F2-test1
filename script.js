@@ -50,9 +50,9 @@ function removeAdmin() {
 function concatenateArray() {
   //Write your code here
   let userarr = [
-      {id: 24, name: "elizabeth", age: "23", profession: "student"},
-      {id: 12, name: "elle", age: "25", profession: "singer"},
-      {id: 35, name: "ancy", age: "27", profession: "artist"}
+      {id: 24, name: "nikita", age: "23", profession: "student"},
+      {id: 12, name: "ramesh", age: "25", profession: "singer"},
+      {id: 35, name: "tushar", age: "27", profession: "artist"}
   ];
 
   let mergedarr = arr.concat(userarr)
